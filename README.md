@@ -2,4 +2,4 @@
 
 <img src="header.gif">
 
-##### I'm a Software Engineering student at the University of Auckland trying my best to learn as much as I can. I have a passion for coding and I hope to make a real and positive difference in the world :-)
+**I'm a Software Engineering student at the University of Auckland trying my best to learn as much as I can. I have a passion for coding and I hope to make a real and positive difference in the world :-)**
