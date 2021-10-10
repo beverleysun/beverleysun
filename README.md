@@ -2,4 +2,4 @@
 
 <img src="header.gif">
 
-**I'm a Penultimate Year Software Engineering student at the University of Auckland. I have a passion for learning new things and I hope to make a positive difference in the world :-)**
+**I'm a Penultimate Year Software Engineering student at the University of Auckland. I quite enjoy coding - enough to do a degree specialising in it :-)**
